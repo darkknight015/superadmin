@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/darkknight015/superadmin.git/static/css/main.a59b53f3.css",
+    "main.js": "/darkknight015/superadmin.git/static/js/main.112b5780.js",
+    "static/js/787.85687d72.chunk.js": "/darkknight015/superadmin.git/static/js/787.85687d72.chunk.js",
+    "static/media/login2.png": "/darkknight015/superadmin.git/static/media/login2.68e97d041c1508f0a514.png",
+    "static/media/login1.png": "/darkknight015/superadmin.git/static/media/login1.305d4f5ac8ebacbc24b8.png",
+    "index.html": "/darkknight015/superadmin.git/index.html",
+    "main.a59b53f3.css.map": "/darkknight015/superadmin.git/static/css/main.a59b53f3.css.map",
+    "main.112b5780.js.map": "/darkknight015/superadmin.git/static/js/main.112b5780.js.map",
+    "787.85687d72.chunk.js.map": "/darkknight015/superadmin.git/static/js/787.85687d72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a59b53f3.css",
+    "static/js/main.112b5780.js"
+  ]
+}
